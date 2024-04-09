@@ -2,6 +2,9 @@
 
 ### 자기소개란 작성
 
+my career: http://pnsinfo.com/
+
+
 <!--
 **LENA2610/LENA2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
