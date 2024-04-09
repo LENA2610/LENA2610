@@ -2,7 +2,12 @@
 
 ### 자기소개란 작성
 
-my career: http://pnsinfo.com/
+Name: Shin Hyeon Woo
+University: YeongNamUniversity_computer science engineering
+Completed Project (web programming): http://pnsinfo.com/
+Studying: Python, Rstudio, C, C++
+Contact: 010-3641-1854
+
 
 
 <!--
