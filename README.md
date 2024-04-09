@@ -8,7 +8,7 @@ University: YeongNamUniversity_computer science engineering
 
 Completed Project (web programming): http://pnsinfo.com
 
-Studying: Python, Rstudio, C, C++
+Studying: Python, Rstudio, C, C++, html, css, javascript
 
 Contact: 010-3641-1854
 
