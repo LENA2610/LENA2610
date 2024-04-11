@@ -10,7 +10,7 @@ Completed Project (web programming): http://pnsinfo.com
 
 Studying: Python, Rstudio, C, C++, html, css, javascript
 
-Contact: 010-3641-1854
+Contact: shw121212@gmail.com
 
 
 
